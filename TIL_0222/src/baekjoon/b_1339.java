@@ -26,7 +26,6 @@ public class b_1339 {
 		arr = s.toArray(new Character[s.size()]);
 		perm(new char[arr.length], 0);
 		System.out.println(max);
-		
 	}
 	static void perm(char[] ans, int idx) {
 		if(idx == arr.length) {
