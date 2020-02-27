@@ -16,5 +16,4 @@ public class 오빠최공 {
 		System.out.println(g);
 		System.out.println(l);
 	}
-	
 }
