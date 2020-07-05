@@ -28,6 +28,7 @@ public class Main_bj_2206_벽뿌수고이동하기 {
 			}
 		}
 		
+		
 		dist = new int[N][M][2];
 		Queue<Pair> q = new LinkedList<>();
 		q.add(new Pair(0,0,0));
