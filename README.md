@@ -1,2 +1,4 @@
 # TIL
-# TIL
+## Today SeongYun Learned
+
+Everyday, Anycode, Anytime
