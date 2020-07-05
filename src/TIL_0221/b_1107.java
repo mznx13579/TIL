@@ -1,4 +1,4 @@
-package baekjoon;
+package TIL_0221;
 
 import java.util.Scanner;
 public class b_1107 {
