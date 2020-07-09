@@ -68,7 +68,7 @@ public class GoodMorning {
 	private static void Subset(boolean[] ans, int idx) {
 		if(idx == ans.length) {
 			for(int i=0; i<ans.length; i++) {
-				if(!ans[i]) {
+				if(ans[i]) {
 					System.out.print(arr[i]+" ");
 				}
 			}
