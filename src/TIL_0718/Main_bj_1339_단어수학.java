@@ -65,7 +65,7 @@ public class Main_bj_1339_단어수학 {
 				ans[idx] = number[i];
 				check[i] = true;
 				Permutation(ans, idx+1);
-				check[i] = false;
+				check[i] = false; 
 			}
 		}
 	}
