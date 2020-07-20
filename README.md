@@ -1,6 +1,4 @@
 # TIL
 ## Today SeongYun Learned
 
-Everyday, Anycode, Anytime
-
-
+Everyday, Anycode, Anytime !
