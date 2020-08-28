@@ -39,4 +39,5 @@ public class Main_bj_11066_파일합치기 {
             System.out.println(go(1, n));
         }
     }
+    
 }
