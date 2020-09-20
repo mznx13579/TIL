@@ -137,7 +137,6 @@ public class Main_bj_19238_스타트택시 {
 					}
 					else if(t.in == true && nr == destinationR && nc == destinationC) {
 						q = new PriorityQueue<Taxi>(new Comparator<Taxi>() {
-
 							@Override
 							public int compare(Taxi o1, Taxi o2) {
 								if(o1.r == o2.r) {
@@ -178,6 +177,7 @@ public class Main_bj_19238_스타트택시 {
 							map[nr][nc] = 0;
 						}
 						break;
+						
 					}
 				}
 			}
