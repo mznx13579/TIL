@@ -1,4 +1,6 @@
 package TIL_1010;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main_bj_2422_한윤정이이탈리아에가서아이스크림을사먹는데 {
