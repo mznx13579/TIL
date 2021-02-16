@@ -1,4 +1,4 @@
-import java.util.*;
+package TIL.src.TIL_21_0216;
 
 public class Main_bj_test {
   public static boolean next_permutation(int[] a) {
